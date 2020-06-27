@@ -1,0 +1,31 @@
+.card {
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+  /*margin-bottom: 32px;*/
+  background: white;
+  height: 560px;
+  background: white;
+  border-radius: 16px;
+  overflow: hidden;
+  transition: 0.5s all ease;
+}
+
+.card-image {
+  width: 100%;
+  height: 60%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.card:hover {
+  transform: scale(1.01);
+}
+
+.h2-info:hover {
+  transform: scale(1.01);
+  color: #e79cc2;
+}
+
+/*.card-info {
+  display: flex;
+}
+*/

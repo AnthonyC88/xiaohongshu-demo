@@ -1,0 +1,12 @@
+.box-left {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.box-right {
+display: flex;
+justify-content: space-between;
+align-items: center;
+/*margin-top: 96px;*/
+}
